@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+outputs/
+*.keras
+*.h5
+.ipynb_checkpoints/
